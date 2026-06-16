@@ -1,6 +1,0 @@
-if SHIELD_TOTTEM_LEFT
-
-config ZMK_KEYBOARD_NAME
-    default "Tottem Left"
-
-endif
