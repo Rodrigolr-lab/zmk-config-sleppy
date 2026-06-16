@@ -19,5 +19,5 @@
 #
 ---
 include:
-  - board: glove80_lh
-  - board: glove80_rh
+  - board: seeeduino_xiao_ble
+    shield: settings_reset
